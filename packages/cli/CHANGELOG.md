@@ -1,5 +1,14 @@
 # auth
 
+## 1.7.0-rc.2
+
+### Patch Changes
+
+- Updated dependencies [[`cf8eaac`](https://github.com/better-auth/better-auth/commit/cf8eaac26e11bcdb7309d537f1730b2559963861)]:
+  - better-auth@1.7.0-rc.2
+  - @better-auth/core@1.7.0-rc.2
+  - @better-auth/telemetry@1.7.0-rc.2
+
 ## 1.7.0-rc.1
 
 ### Patch Changes

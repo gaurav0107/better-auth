@@ -1,5 +1,11 @@
 # @better-auth/drizzle-adapter
 
+## 1.7.0-rc.2
+
+### Minor Changes
+
+- [#7169](https://github.com/better-auth/better-auth/pull/7169) [`5d38b13`](https://github.com/better-auth/better-auth/commit/5d38b138c3c73eb06fe247ef6631c66e86ccc92b) Thanks [@ping-maxwell](https://github.com/ping-maxwell)! - Add a `schemaName` option to the Drizzle Relations v2 adapter config. When set on PostgreSQL, schema generation now emits a `pgSchema("...")` namespace and uses namespaced table definitions (for example, `authSchema.user(...)`), matching the v1 CLI generator behavior.
+
 ## 1.7.0-rc.1
 
 ## 1.7.0-rc.0

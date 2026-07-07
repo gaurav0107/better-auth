@@ -1,5 +1,20 @@
 # better-auth
 
+## 1.7.0-rc.2
+
+### Patch Changes
+
+- [#10299](https://github.com/better-auth/better-auth/pull/10299) [`cf8eaac`](https://github.com/better-auth/better-auth/commit/cf8eaac26e11bcdb7309d537f1730b2559963861) Thanks [@momomuchu](https://github.com/momomuchu)! - widen drizzle-kit peer dependency range
+
+- Updated dependencies [[`5d38b13`](https://github.com/better-auth/better-auth/commit/5d38b138c3c73eb06fe247ef6631c66e86ccc92b)]:
+  - @better-auth/drizzle-adapter@1.7.0-rc.2
+  - @better-auth/core@1.7.0-rc.2
+  - @better-auth/kysely-adapter@1.7.0-rc.2
+  - @better-auth/memory-adapter@1.7.0-rc.2
+  - @better-auth/mongo-adapter@1.7.0-rc.2
+  - @better-auth/prisma-adapter@1.7.0-rc.2
+  - @better-auth/telemetry@1.7.0-rc.2
+
 ## 1.7.0-rc.1
 
 ### Patch Changes
